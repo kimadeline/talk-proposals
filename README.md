@@ -1,6 +1,7 @@
 # Talk Proposals
 
-What this repo is for:   
+What is this for?
+
 📣 One-stop shop for my personal talk proposals - accepted, pending, withdrawn and rejected.    
 ☣️ Collection of different bios so that I don't have to come up with something new every time.
 
