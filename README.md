@@ -17,3 +17,4 @@ What is this for?
 - 🐦 https://twitter.com/kimadeline_m
 - :octocat: https://github.com/kimadeline
 - 🔗 https://www.linkedin.com/in/kimadelinemiguel/
+- 📊 https://speakerdeck.com/kimadeline
