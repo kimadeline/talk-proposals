@@ -3,8 +3,12 @@
 ## Emoji bio
 
 🐍 Software engineer at Microsoft working on the [Python Extension for VS Code](https://github.com/microsoft/vscode-python/)    
+🛹 Beginner roller skater
 🌵 Succulent grower  
-👩‍🎨 Emoji user 
+
+## One-line emoji bio
+
+Software engineer @ Microsoft · beginner roller skater 🛹 · succulent grower 🌵
 
 
 ## Short bio
