@@ -5,21 +5,22 @@
 🐍 Software engineer at Microsoft working on the [Python Extension for VS Code](https://github.com/microsoft/vscode-python/)    
 🛹 Beginner roller skater    
 🌵 Succulent grower  
+💬 She/her
 
 ## One-line emoji bio
 
-Software engineer @ Microsoft · beginner roller skater 🛹 · succulent grower 🌵
+Software engineer @ Microsoft · beginner roller skater 🛹 · succulent grower 🌵 She/her 💬
 
 
 ## Short bio
   
-Kim-Adeline is a software engineer at Microsoft working on the [Python extension for VS Code](https://github.com/microsoft/vscode-python/). 
+Kim-Adeline (she/her) is a software engineer at Microsoft working on the [Python extension for VS Code](https://github.com/microsoft/vscode-python/). 
 Prior to that, she dabbled with parallel programming in Singapore and worked as a front-end engineer 
 in Denmark and in Vancouver.
 
 ## Longer bio
 
-Kim-Adeline is a software engineer at Microsoft working on the 
+Kim-Adeline (she/her) is a software engineer at Microsoft working on the 
 [Python extension for VS Code](https://github.com/microsoft/vscode-python/). 
 Prior to that, she dabbled with parallel programming in Singapore and worked as a front-end engineer in 
 Denmark and in Vancouver. 
