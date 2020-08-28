@@ -11,6 +11,7 @@ What is this for?
 - [Tyler Leonhardt's repo](https://github.com/TylerLeonhardt/talk-proposals)
 - [Tammy Butow's repo](https://github.com/tammybutow/Talks)
 - [Aaron Powell's website](https://www.aaron-powell.com/talks)
+- [Cassidy Williams' repo](https://github.com/cassidoo/talks)
 
 # Links
 
