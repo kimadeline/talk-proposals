@@ -4,7 +4,6 @@
 - [Artifacts](#artifacts)
 - [Abstract](#abstract)
 - [Detailed description](#detailed-description)
-- [Reasons for this talk](#reasons-for-this-talk)
 - [Notes](#notes)
 
 # Title
@@ -45,7 +44,7 @@ PyCon pivoted to a virtual conference, so it was uploaded as a pre-recorded YT t
 
 [Slides](https://speakerdeck.com/kimadeline/pycon-us-2020-decoding-bias-and-narrative-in-competitive-video-games-broadcasts-with-video-analysis)
 
-[GitHub repo](<(https://github.com/kimadeline/overwatch-ocr)>)
+[GitHub repo](https://github.com/kimadeline/overwatch-ocr)
 
 [⬆️ Back to top](#title)
 

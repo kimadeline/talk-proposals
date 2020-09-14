@@ -4,7 +4,6 @@
 - [Artifacts](#artifacts)
 - [Abstract](#abstract)
 - [Detailed description](#detailed-description)
-- [Reasons for this talk](#reasons-for-this-talk)
 - [Notes](#notes)
 
 # Title
