@@ -12,6 +12,7 @@ What is this for?
 - [Tammy Butow's repo](https://github.com/tammybutow/Talks)
 - [Aaron Powell's website](https://www.aaron-powell.com/talks)
 - [Cassidy Williams' repo](https://github.com/cassidoo/talks)
+- [Ali Spittel's repo](https://github.com/aspittel/cfps)
 
 # Links
 
